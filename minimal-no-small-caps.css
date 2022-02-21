@@ -1,0 +1,13 @@
+/*
+ * for use with minimal theme to remove small-capital letters
+ * maybe there's a style setting for this by now?
+*/
+
+:root {
+  --h1-variant:normal;
+  --h2-variant:normal;
+  --h3-variant:normal;
+  --h4-variant:normal;
+  --h5-variant:normal;
+  --h6-variant:normal;
+}

@@ -1,0 +1,22 @@
+.inline-field-key {
+    border-top-left-radius: 250px;
+    border-bottom-left-radius: 250px;
+    padding-left: 8px !important;
+    padding-right: 4px !important;
+    font-family: var(--font-monospace);
+    background-color: hsla(var(--accent-h), calc(var(--accent-s) * 2), calc(var(--accent-d) * 1.2), 0.3) !important;
+    color: #0A0A0A88 !important;
+}
+.inline-field-key::after {
+    content: "" !important;
+}
+.inline-field-value {
+    border-top-right-radius: 250px;
+    border-bottom-right-radius: 250px;
+    padding-right: 8px !important;
+    padding-left: 4px !important;
+    font-family: var(--font-monospace);
+    /* background-color: var(--background-tertiary); */
+    background-color: hsla(var(--accent-h), calc(var(--accent-s)*1.50), calc(var(--accent-d) - 35%), 0.4) !important;
+    color: #f7f7f766 !important;
+}

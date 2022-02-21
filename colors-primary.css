@@ -1,0 +1,19 @@
+.theme-dark {
+     --red: var(--color-d-red);
+     --green: var(--color-d-green);
+     --blue: var(--color-d-blue);
+     --orange: var(--color-d-orange);
+     --violet: var(--color-d-violet);
+     --purple: var(--violet);
+     --yellow: var(--color-d-yellow);
+}
+
+.theme-light {
+    --red: var(--color-l-red);
+    --green: var(--color-l-green);
+    --blue: var(--color-l-blue);
+    --orange: var(--color-l-orange);
+    --violet: var(--color-l-violet);
+    --purple: var(--violet);
+    --yellow: var(--color-l-yellow);
+}

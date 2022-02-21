@@ -1,0 +1,9 @@
+/* I think I copied this from the Obsidian Discord 😅 */
+
+body .table-view-table > thead > tr > th {
+    white-space: pre;
+}
+.table-view-table > tbody > tr > td {
+    word-wrap: normal;
+    word-break: normal;
+}

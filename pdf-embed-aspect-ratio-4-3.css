@@ -1,0 +1,5 @@
+.markdown-preview-view .pdf-embed, .markdown-source-view .pdf-embed {
+    width: 100%;
+    /* height: 800px; */
+    aspect-ratio: 4/3;
+}

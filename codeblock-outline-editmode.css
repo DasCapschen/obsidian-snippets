@@ -1,0 +1,10 @@
+.markdown-source-view.mod-cm6 .cm-embed-block {
+    border: 2px solid transparent !important;
+    border-radius: 10px !important;
+    padding: 4px !important;
+}
+
+.markdown-source-view.mod-cm6 .cm-embed-block:hover {
+    border: 2px solid !important;
+    border-color: var(--background-modifier-border) !important;
+}
